@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b6353"],{"1bd0":function(n,s,u){"use strict";u.r(s),s["default"]="```js\r\nnpm install vue-hu-dialog\r\n```"}}]);
+//# sourceMappingURL=chunk-2d0b6353.a2afeb19.js.map
