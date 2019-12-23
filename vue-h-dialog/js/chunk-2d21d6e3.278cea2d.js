@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21d6e3"],{d0ef:function(n,e,d){"use strict";d.r(e),e["default"]="```js\r\nimport vueDialog, { close } from 'vue-h-dialog';\r\n\r\nconst gId = vueDialog().gId;\r\n\r\nclose(gId);\r\n\r\n// {{ i18n('关闭所有') }}\r\nclose.apply(null, [...document.querySelectorAll('[data-vhd-gid]')].map((el) => el.dataset.vhdGid));\r\n```"}}]);
+//# sourceMappingURL=chunk-2d21d6e3.278cea2d.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d230458"],{ec26:function(n,r,o){"use strict";o.r(r),r["default"]="<h3>{{ i18n('自定义') }} lang</h3>\r\n\r\n```js\r\nimport Vue from 'vue';\r\nimport VueDialog from 'vue-h-dialog';\r\n\r\nconst options = {\r\n  i18n: {\r\n    '未命名标题': 'Untitled',\r\n    '取消': 'Cancel',\r\n    '确定': 'Confirm',\r\n    '还原': 'Restore',\r\n    '最大化': 'Maximize',\r\n    '关闭': 'Close',\r\n    '加载中': 'Loading',\r\n  },\r\n};\r\n\r\nVue.use(VueDialog, options);\r\n```"}}]);
+//# sourceMappingURL=chunk-2d230458.1c443c85.js.map

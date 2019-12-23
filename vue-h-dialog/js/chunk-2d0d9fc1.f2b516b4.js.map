@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./docs/okHandler/1.md"],"names":[],"mappings":"kHAAA,OAAe","file":"js/chunk-2d0d9fc1.f2b516b4.js","sourcesContent":["export default \"<h4 class=\\\"tip\\\">{{ i18n('点击确认按钮') }}</h4>\\r\\n<h4 >{{ i18n('不会关闭弹窗') }}</h4>\\r\\n\\r\\n```js\\r\\nthis.$hDialog({\\r\\n  okHandler(ins, reject) {\\r\\n    \\r\\n  }\\r\\n})\\r\\n```\";"],"sourceRoot":""}

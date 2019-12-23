@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0bcdc5"],{"2a11":function(n,t,e){"use strict";e.r(t),t["default"]="```js\r\nthis.$hDialog({\r\n  slots: {\r\n    // vnodes\r\n    title: [this.$createElement('span', 'title')],\r\n    default: [this.$createElement('p', 'content')],\r\n    footer: [this.$createElement('button', {\r\n      on: {\r\n        click() { alert(); },\r\n      },\r\n    }, '{{ i18n('点击我') }}')],\r\n  },\r\n});\r\n```"}}]);
+//# sourceMappingURL=chunk-2d0bcdc5.a1bd79c4.js.map

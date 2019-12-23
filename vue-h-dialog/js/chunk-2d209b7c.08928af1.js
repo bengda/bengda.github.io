@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d209b7c"],{a9f4:function(n,r,c){"use strict";c.r(r),r["default"]="```js\r\nimport { clearCache } from 'vue-h-dialog';\r\n\r\nconst pId = 504;\r\n\r\n// {{ i18n('清除指定的缓存') }}\r\nclearCache(pId);\r\n\r\n// {{ i18n('清除所有') }}\r\nclearCache();\r\n```"}}]);
+//# sourceMappingURL=chunk-2d209b7c.08928af1.js.map

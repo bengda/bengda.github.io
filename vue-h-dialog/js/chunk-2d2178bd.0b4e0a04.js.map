@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./docs/html/1.md"],"names":[],"mappings":"gHAAA,OAAe","file":"js/chunk-2d2178bd.0b4e0a04.js","sourcesContent":["export default \"```js\\r\\nthis.$hDialog({\\r\\n  html: '<h3>Wub lubb dub dub</h3>',\\r\\n});\\r\\n```\";"],"sourceRoot":""}

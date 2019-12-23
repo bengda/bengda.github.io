@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e55d1"],{"93bc":function(n,e,o){"use strict";o.r(e),e["default"]="```js\r\nthis.$hDialog({\r\n  listeners: {\r\n    ['on-open']() { alert('on-open') },\r\n    ['on-close']() { alert('on-close') },\r\n    ['on-cancel']() { alert('on-cancel') },\r\n  },\r\n});\r\n```"}}]);
+//# sourceMappingURL=chunk-2d0e55d1.6f28543a.js.map

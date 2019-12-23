@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d20ff04"],{b682:function(r,e,n){"use strict";n.r(e),e["default"]="<h4 class=\"tip\">{{ i18n('点击关闭按钮') }}</h4>\r\n<h4 >{{ i18n('使用Promise') }}</h4>\r\n\r\n```js\r\nthis.$hDialog({\r\n  closeHandler(ins, reject) {\r\n    reject('Close with Promise', 2000);\r\n  },\r\n}).promise().then((res) => alert(res)).catch((err) => alert(err));\r\n```"}}]);
+//# sourceMappingURL=chunk-2d20ff04.f5505c7d.js.map

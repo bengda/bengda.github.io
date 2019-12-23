@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e19fe"],{"7adb":function(n,i,r){"use strict";r.r(i),i["default"]="<h3>{{ i18n('示例') }}</h3>\r\n\r\n```js\r\nthis.$hDialog({\r\n  okHandler(ins) {\r\n    ins.showLoading('{{ i18n(\"发送至服务器\") }}');\r\n    setTimeout(() => {\r\n      ins.closeLoading();\r\n    }, 3e3);\r\n  },\r\n});\r\n```"}}]);
+//# sourceMappingURL=chunk-2d0e19fe.70586cb2.js.map

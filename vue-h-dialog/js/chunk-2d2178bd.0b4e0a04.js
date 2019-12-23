@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2178bd"],{c6d8:function(n,u,b){"use strict";b.r(u),u["default"]="```js\r\nthis.$hDialog({\r\n  html: '<h3>Wub lubb dub dub</h3>',\r\n});\r\n```"}}]);
+//# sourceMappingURL=chunk-2d2178bd.0b4e0a04.js.map

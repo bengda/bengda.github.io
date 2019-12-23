@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0cbde8"],{"4c03":function(n,r,c){"use strict";c.r(r),r["default"]="<h4 class=\"tip\">{{ i18n('点击关闭按钮') }}</h4>\r\n<h4 >{{ i18n('会关闭弹窗') }}</h4>\r\n\r\n```js\r\nthis.$hDialog({\r\n  closeHandler(ins, reject) {\r\n    reject('will close dialog');\r\n  }\r\n})\r\n```"}}]);
+//# sourceMappingURL=chunk-2d0cbde8.373c825e.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0ae5c0"],{"0a70":function(n,r,i){"use strict";i.r(r),r["default"]="<h3>{{ i18n('示例') }}</h3>\r\n\r\n```js\r\nthis.$hDialog({\r\n  okHandler(ins) {\r\n    ins.showLoading();\r\n    setTimeout(() => {\r\n      ins.closeLoading();\r\n    }, 3e3);\r\n  },\r\n});\r\n```"}}]);
+//# sourceMappingURL=chunk-2d0ae5c0.9497c4e7.js.map
